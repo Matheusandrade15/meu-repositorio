@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<htmllang="pt-br>
+
+<head>
+<metacharset="UTF-8">
+<meta name="viewport"content="width=device-width,initial-scale=1">
+<linkrel="preconnect"href="https://fonts.googleapis.com">
+<title>Tropicália</title>
+<linkhref="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.3/css/bootstrap.min.css"rel="stylesheet">
+<linkrel="stylesheet"href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css">
+<link rel="stylesheet"href="styles.css">
+</head>
+
+<body>
+<headerclass="p-5">
+
+<navclass="containerd-flexjustify-content-betweenalign-items-center"
+<imagsrc="img/logo.png"class="nav-img"loadng="lazy">
+<ulclass="navmt-5">
+<liclass="nav-item"><aclassa="nav-link"href="#inicio">Inicio</a></li>
+<liclass="nav-item"><aclass="nav-link"href="#galeria">Galeria</a></li>
+<liclass="nav-item"><aclass="nav-link"href"="#contato">Contato</a></li>
+</ul>
+<divid="acessibilidade"class="menu-acessibilidade">
+<buttonid="botao-acessibilidade"class=="btnbtn-primaryfw-boldrotacao-botao"aria-expanded="false">acessibilidade</nutton>
+<divid="opcoes-acessibilidade"class="opcoes-acessibilidadeapresenta-lista">
+<buttonid="aumentar-fonte"class="btnbtn-primaryfw-bold"aria-label="Aumentar o tamanho da fonte">A-</button>
+<buttonid="diminuir-fonte" class="btnbtn-primaryfw-bold" aria-label="diminuir o tamanho da fonte">A</button>
+<button id="alterna-contraste" class="btn btn-primary fw-bold" aria-label=Alterna o contraste de cores"><iclass="bi bi -shadows"></i></button>
+</div>
+</div>
+</header>
+
+</header>
+
+<main class="container my-5">
+
+<section id="inicio" class=my-5
+<div class="inicio-fundo d-flex justify-content-between align-items-center">
+<div class="esquerda-conteudo">
+<h1 class="display-4 text-whitefst-italic fw-bold">Boas-vindas a</h1>
+<imgsrc="img/logo-2.png" class="mb-3"width="563" height="278"loadng=lazy">
+<a href="#tropicalia" class="btn btn -primary btn-lgbotao-inicio fw -semibold">quero conhecer!<a/a>
+</div>
+<imgsrc="img/lossy-page1-640px-os_mutantes.tif(1).png" alt="A imagem apresenta o grupo musical os mutantes,sao tresd pessoas cantando em um microfone"title="Os mutantes - CC0Domínio Público / Acervo Arquivo Nacional" class="img-fluid img-inicio">
